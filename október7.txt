@@ -1,0 +1,21 @@
+        A.
+
+1. Inline és blokk-szintű elemek tulajdonságai példákkal.
+2. Képernyő újratöltés (frissítés) eleme.
+3. Egy p-elemnek adj piros háttérszint inline stílussal.
+4. A weboldal szerzője Te vagy. Hogyan tudod jelölni a HTML-állományodban? 
+5. A következő képet szeretnénk elérni az index.html-ből. Egészítsd ki:
+    <img src='     ' alt='kép' />
+
++1. Az alap html-állomány felépítése.
+
+        B.
+
+1. Üres és teli elemek tulajdonságai példákkal.
+2. Karakter és nyelvi beállítás lépései.
+3. Hol jelenik meg a weboldalon a <title>Cím</title> elem tartalma.
+4. Az oldalad a kedvenc játékodról szól. Hogyan tudod jelölni a HTML-állományodban?
+5. A következő képet szeretnénk elérni az index.html-ből. Egészítsd ki:
+    <img src='     ' alt='kép' />
+
++1. Az alap html-állomány felépítése.
